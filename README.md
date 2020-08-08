@@ -5,8 +5,8 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 
 
-An Overview of PyTorch
-Diving into the Technicalities
-Building a neural network in Numpy vs. PyTorch
-Comparison with other deep learning libraries
-Case Study – Solving an Pima Diabities dataset problem with PyTorch
+<li>An Overview of PyTorch</li?
+<li>Diving into the Technicalities</li>
+<li>Building a neural network in Numpy vs. PyTorch</li>
+<li>Comparison with other deep learning libraries</li>
+<li>Case Study – Solving an Pima Diabities dataset problem with PyTorch</li>
